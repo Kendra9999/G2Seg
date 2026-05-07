@@ -1,4 +1,4 @@
-# G<sup>2</sup>Seg: Generalizable abdominal organ segmentation with general-purpose anatomical representation
+# ReSeg: Retraining-free segmentation of abdominal organs via generalizable semantic representation learning
 
 Derong Yu, Guoyan Zheng
 
